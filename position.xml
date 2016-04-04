@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresults timestamp="Mon, 04 Apr 16 11:56:25 +0000" attribution="Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright" querystring="2 Les Villageoises" polygon="false" exclude_place_ids="66211723,63798595,67614326,65974163,63814480" more_url="http://nominatim.openstreetmap.org/search.php?format=xml&amp;exclude_place_ids=66211723,63798595,67614326,65974163,63814480&amp;q=2+Les+Villageoises">
+  <place place_id="66211723" osm_type="way" osm_id="28146579" place_rank="26" boundingbox="43.6503765,43.6504665,5.2583237,5.2586829" lat="43.6503765" lon="5.2586829" display_name="Les Villageoises, Lambesc, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13410, France" class="highway" type="unclassified" importance="0.3" />
+</searchresults>
